@@ -1,0 +1,14 @@
+{
+  "name": "craigslist-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Shady Alefrangy",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "puppeteer": "^15.1.0"
+  }
+}
